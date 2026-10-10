@@ -12,9 +12,9 @@ I am a **geospatial data scientist** working with **high-resolution, multiplexed
 
 With **Dr. Andrew Feldman** (NASA Goddard) and **Prof. Tamir Klein** (Weizmann). Stacking imaging spectroscopy, satellite time series, climate and land-use layers into reproducible pipelines, and using machine learning to study vegetation, climate interactions and ecosystem resilience.
 
-<img src="images/forest-map.png" alt="North American forest cells by Köppen climate group and MODIS forest cluster" width="600">
+<img src="images/layer-stack.png" alt="Exploded stack of co-registered geospatial layers: terrain, soil, canopy height, vegetation index and EMIT imaging spectroscopy" width="600">
 
-*North American forest cells grouped by Köppen climate and MODIS forest land-use cluster.*
+*Multiplexed geospatial data for one forest box: independent datasets co-registered at ~30 m and analysed together.*
 
 ## 🔬 Cancer and spatial proteomics · KerenLab, Weizmann (2023–2025)
 
