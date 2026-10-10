@@ -24,7 +24,7 @@ With **Dr. Leeat Keren**, in collaboration with Dr. Shai Bagon. One 2D section r
 
 *Figure 1 of the paper: 2D sampling fragments tissue structures that 3D reconstruction restores.*
 
-**Harlev I., Oukhanov T., Ben-Uri R., Keren L., Bagon S.** *Sampling-Aware 3D Spatial Analysis in Multiplexed Imaging.* CVPR 2026 Workshops (CVMI). [arXiv](https://arxiv.org/abs/2604.07890) · [CVF](https://openaccess.thecvf.com/content/CVPR2026W/CVMI/html/Harlev_Sampling-Aware_3D_Spatial_Analysis_in_Multiplexed_Imaging_CVPRW_2026_paper.html)
+**Harlev I., Oukhanov T., Ben-Uri R., Keren L., Bagon S.** *Sampling-Aware 3D Spatial Analysis in Multiplexed Imaging.* CVPR 2026 Workshops (CVMI). [CVPR paper](https://openaccess.thecvf.com/content/CVPR2026W/CVMI/html/Harlev_Sampling-Aware_3D_Spatial_Analysis_in_Multiplexed_Imaging_CVPRW_2026_paper.html)
 Best Poster, *Breaking New Methodologies in Biomedical Research*, Weizmann Institute, 2025.
 
 ## ⚙️ Materials science · Soft Materials Lab, Technion (2019–2021)
@@ -39,6 +39,6 @@ With **Noy Cohen**. A thermodynamics-based model of how heart muscle cells remod
 
 ---
 
-**Education:** PhD Computational Biology, Weizmann & NASA Goddard · MSc Bioinformatics, Weizmann · BSc Materials Engineering and Physics, Technion
+**Education:** PhD Computational Biology (in progress), Weizmann & NASA Goddard · MSc Bioinformatics, Weizmann · BSc Materials Engineering and Physics, Technion
 
 [Website](https://idoharlev.github.io) · [Email](mailto:harlev.ido@gmail.com)
